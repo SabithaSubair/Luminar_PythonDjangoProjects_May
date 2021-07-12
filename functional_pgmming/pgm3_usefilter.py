@@ -7,3 +7,4 @@ print("even numbers:",evens)
 #print odd numbers
 odds=list(filter(lambda num:num%2 !=0,lst))
 print("odd numbers:",odds)
+print("hello")
